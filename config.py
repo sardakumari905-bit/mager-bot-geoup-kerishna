@@ -3,16 +3,16 @@ import pytz
 from datetime import date
 
 # --- ADMIN SETTINGS ---
-BOT_TOKEN = "8057398123:AAGR7B6bhK0-wUy_ubXo6DZ4c3PPeepgnm4"  
-OWNER_ID = 6761345074              
-MAIN_GROUP_ID = -1003308402459      
+BOT_TOKEN = "8091671831:AAEpLXIfkInBGATHdGdBRlKuKjTOjmpIACg"  
+OWNER_ID = 7549194607              
+MAIN_GROUP_ID = -1003157142541      
 
 DB_FILE = "board_pro_db.json"
 START_IMG = "https://i.postimg.cc/rmDPsqRC/Gemini-Generated-Image-5jbjnc5jbjnc5jbj.png"
 
 # --- CONSTANTS ---
 IST = pytz.timezone('Asia/Kolkata')
-EXAM_DATE = date(2026, 2, 12) # Board Exam Date
+EXAM_DATE = date(2026, 2, 18) # Board Exam Date
 
 # --- STATES ---
 # Schedule Flow
